@@ -32,7 +32,7 @@ function App() {
               chain: optimism,
               sponsorGas: true,
             }}
-            showThirdwebBranding={false} // 隐藏 thirdweb branding
+            showThirdwebBranding={false} 
           />
         )}
       </div>
